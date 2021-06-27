@@ -36,7 +36,7 @@ public class TeamService {
         connection = DriverManager.getConnection(url, userName, password);
         statement = connection.createStatement();
 
-        String teamName = request.teamName.toLowerCase(Locale.ROOT);
+        String teamName = request.team.toLowerCase(Locale.ROOT);
         try {
             resultSet = statement.executeQuery(query + "\"" + teamName + "\"");
             Team team = teamTransformResponse.transformResponse(resultSet);
