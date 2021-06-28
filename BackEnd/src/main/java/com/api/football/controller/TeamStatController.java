@@ -22,7 +22,7 @@ public class TeamStatController {
 
     @PostMapping(value = GET_TEAM, produces = MediaType.APPLICATION_JSON_VALUE)
     @ApiOperation(value = "get team", response = Team.class, httpMethod = "POST")
-//    Adding this to allow JS front end to make the API call
+//    Adding this to allow JS front end to make API call
     @CrossOrigin(origins = "http://localhost:3000")
     public Team getTeam(@RequestBody TeamRequest request) throws SQLException, ClassNotFoundException {
         return teamService.getTeam(request);
