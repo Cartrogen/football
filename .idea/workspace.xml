@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0cd071f8-07f9-4d1a-a873-3f183997756e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Football" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/football/FootballApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/football/controller/PlayerStatController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/football/controller/TeamStatController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/football/exception/ApiError.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/football/exception/DataNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/football/exception/ExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/football/model/request/team/TeamRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/football/model/response/player/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/football/model/response/player/subtype/Appearance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/football/model/response/player/subtype/MinutesPlayed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/football/model/response/player/subtype/Performance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/football/model/response/team/Team.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/football/model/response/team/subtype/CleanSheets.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/football/model/response/team/subtype/Fouls.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/football/model/response/team/subtype/Goals.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/football/model/response/team/subtype/Matches.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/football/model/response/team/subtype/Result.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/football/model/response/team/subtype/Shots.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/football/service/player/PlayerDataFetcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/football/service/team/TeamService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/football/service/team/TeamTransformResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/api/football/FootballApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="testbranch" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1rjedPQ2ABbho9XdUT3ekgqMVUw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/BackEnd" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.18403548" />
+    <property name="project.structure.side.proportion" value="0.29982206" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nigosalia\Java Projects\IntelliJ Projects\Football Project\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nigosalia\Java Projects\IntelliJ Projects\Football Project\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="FootballApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Football" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.api.football.FootballApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="LinkAzureServiceBeforeRunProviderId" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0cd071f8-07f9-4d1a-a873-3f183997756e" name="Default Changelist" comment="" />
+      <created>1619494018329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619494018329</updated>
+      <workItem from="1619494020221" duration="5335000" />
+      <workItem from="1619500644322" duration="1529000" />
+      <workItem from="1619502225308" duration="467000" />
+      <workItem from="1619502708011" duration="322000" />
+      <workItem from="1619503046247" duration="461000" />
+      <workItem from="1619503523563" duration="480000" />
+      <workItem from="1619504020683" duration="2623000" />
+      <workItem from="1619535500188" duration="6442000" />
+      <workItem from="1620701244895" duration="5725000" />
+      <workItem from="1620794667747" duration="5210000" />
+      <workItem from="1621017803461" duration="4154000" />
+      <workItem from="1621029642183" duration="5367000" />
+      <workItem from="1621080845674" duration="81518000" />
+      <workItem from="1621212490540" duration="2197000" />
+      <workItem from="1621261606809" duration="1228000" />
+      <workItem from="1621262859575" duration="7527000" />
+      <workItem from="1621273953829" duration="7021000" />
+      <workItem from="1621284521771" duration="9937000" />
+      <workItem from="1621370387860" duration="7411000" />
+      <workItem from="1621433055749" duration="8761000" />
+      <workItem from="1621449819413" duration="2248000" />
+      <workItem from="1621456232381" duration="6454000" />
+      <workItem from="1621609676213" duration="4090000" />
+      <workItem from="1621949420532" duration="26000" />
+      <workItem from="1621954452548" duration="25212000" />
+      <workItem from="1622478675317" duration="5689000" />
+      <workItem from="1622641189540" duration="56000" />
+      <workItem from="1623723717850" duration="9703000" />
+      <workItem from="1623963656888" duration="1946000" />
+      <workItem from="1624028445388" duration="3081000" />
+      <workItem from="1624063432866" duration="34000" />
+      <workItem from="1624063924019" duration="587000" />
+      <workItem from="1624064959806" duration="598000" />
+      <workItem from="1624075098127" duration="463000" />
+      <workItem from="1624076512888" duration="98000" />
+      <workItem from="1624076636427" duration="602000" />
+      <workItem from="1624081395335" duration="2136000" />
+      <workItem from="1624338104474" duration="1382000" />
+      <workItem from="1624373371664" duration="3382000" />
+      <workItem from="1624458426627" duration="2727000" />
+      <workItem from="1624496217056" duration="727000" />
+      <workItem from="1624508329493" duration="1276000" />
+      <workItem from="1624540221135" duration="23000" />
+      <workItem from="1624631287457" duration="6081000" />
+      <workItem from="1624891334107" duration="49000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint type="java-exception">
+          <properties class="java.lang.NoSuchFieldException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/api/football/service/team/TeamDataFetcher.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

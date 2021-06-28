@@ -1,0 +1,74 @@
+.App {
+  text-align: center;
+}
+
+.form-control {
+  display: flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content: center;
+  font-size: calc(20px);
+  position: relative;
+  top: 250px;
+}
+
+.front-page-bottom {
+  display: flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: White;
+  position: relative;
+  top: 300px;
+}
+
+.submit-btn {
+  color: White;
+  text-align: center;
+  font-size: 16px;
+  padding: 15px 32px;
+  border-radius: 10px;
+  border: 2px solid grey;
+  align-items: center;
+  background-color: #3d195b;
+  box-shadow: 0 0 8px;
+  outline-color: red;
+}
+
+.flex-top-container {
+  display:flex;
+  /* position: relative; */
+  /* justify-content: space-between; */
+  height: 250px;
+  max-width: 100%;
+  min-width: 100%;
+  background-color: #282828;
+  }
+
+.flex-teamInfo-container {
+  display: flex;
+  /* position: relative; */
+  flex-direction: column;
+  margin-top: 55px;
+  margin-left: 20px;
+  color:white
+}
+
+.flex-break {
+  /* position: relative; */
+  margin-top: 44px;
+  margin-left: 100px;
+  margin-bottom: 50px;
+  background-color: white;
+  width: 2px;
+ }
+
+ .flex-teamPosition-container {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   margin-left: 100px;
+   margin-top: 44px;
+   color: white;
+ }
