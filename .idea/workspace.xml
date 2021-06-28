@@ -5,37 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0cd071f8-07f9-4d1a-a873-3f183997756e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Football" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/football/FootballApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/football/controller/PlayerStatController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/football/controller/TeamStatController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/football/exception/ApiError.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/football/exception/DataNotFoundException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/football/exception/ExceptionHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/football/model/request/team/TeamRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/football/model/response/player/Player.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/football/model/response/player/subtype/Appearance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/football/model/response/player/subtype/MinutesPlayed.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/football/model/response/player/subtype/Performance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/football/model/response/team/Team.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/football/model/response/team/subtype/CleanSheets.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/football/model/response/team/subtype/Fouls.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/football/model/response/team/subtype/Goals.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/football/model/response/team/subtype/Matches.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/football/model/response/team/subtype/Result.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/football/model/response/team/subtype/Shots.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/football/service/player/PlayerDataFetcher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/football/service/team/TeamService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/football/service/team/TeamTransformResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/api/football/FootballApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,8 +70,9 @@
   </component>
   <component name="RunManager">
     <configuration name="FootballApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="Football" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.api.football.FootballApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="LinkAzureServiceBeforeRunProviderId" enabled="true" />
@@ -161,6 +132,7 @@
       <workItem from="1624540221135" duration="23000" />
       <workItem from="1624631287457" duration="6081000" />
       <workItem from="1624891334107" duration="49000" />
+      <workItem from="1624899696908" duration="141000" />
     </task>
     <servers />
   </component>
